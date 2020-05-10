@@ -1,0 +1,11 @@
+body{
+    background-image: radial-gradient(#c2006e, #c20000);
+}
+p {
+    font-family: bodyFont;
+    font-size: large;
+}
+@font-face {
+    font-family: bodyFont;
+    src: url(TYPEE.TTF);
+}
